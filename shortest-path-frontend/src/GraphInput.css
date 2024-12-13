@@ -1,0 +1,78 @@
+.header-label {
+  color: blue;
+  margin-bottom: 15px;
+}
+.graph-input-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form-section {
+  width: 45%;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-label {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  justify-items: left;
+}
+
+.dropdown {
+  width: 100%;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.clear-button {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: 1px solid #f28d35;
+  background: transparent;
+  color: #f28d35;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.calculate-button {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  background: #f28d35;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.result-container {
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+.result-section {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  height: 360px;
+}
+
+.no-result-img {
+  width: 50%;
+}
